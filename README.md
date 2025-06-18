@@ -3,7 +3,11 @@
 
 A modern, full-stack web app that lets users securely log in, add personal entries (like tasks, books, expenses), and view them in a real-time dashboard — built with Supabase + React.
 
-![Demo](screenshots/dashboard.gif)
+
+
+https://github.com/user-attachments/assets/48383fd4-6f46-43db-896d-69585f52505a
+
+
 
 ---
 
