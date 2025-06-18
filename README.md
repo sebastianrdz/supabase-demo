@@ -1,3 +1,53 @@
+
+# 📊 Supabase Dashboard – User-Scoped Entry Tracker
+
+A modern, full-stack web app that lets users securely log in, add personal entries (like tasks, books, expenses), and view them in a real-time dashboard — built with Supabase + React.
+
+![Demo](screenshots/dashboard.gif)
+
+---
+
+## 🧠 Features
+
+- 🔐 Email/password authentication via Supabase Auth
+- 📋 Logged-in users can add, view, and manage their own data
+- 🚀 Protected routes using React Router
+- 🌐 Fully responsive React 
+- 🗃️ Row-Level Security to isolate user data
+
+---
+
+## 🧱 Stack
+
+| Layer       | Tech               |
+|-------------|--------------------|
+| Frontend    | React + Tailwind   |
+| Backend     | Supabase (PostgreSQL, Auth, RLS) |
+| Routing     | React Router v6    |
+| Deployment  | Vercel / Netlify / Supabase Hosting |
+
+---
+
+## 🖼️ Screenshots
+
+| Login | Dashboard |
+|-------|-----------|
+| ![Login](screenshots/login.png) | ![Dashboard](screenshots/home.png) |
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/your-username/supabase-dashboard.git
+cd supabase-dashboard
+npm install
+```
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
