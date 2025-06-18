@@ -7,6 +7,7 @@ A modern, full-stack web app that lets users securely log in, add personal entri
 
 https://github.com/user-attachments/assets/48383fd4-6f46-43db-896d-69585f52505a
 
+- [LiveDemo] (https://supabase-demo-git-main-sebastianrdzs-projects.vercel.app/)
 
 
 ---
